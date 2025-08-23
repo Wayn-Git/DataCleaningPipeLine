@@ -1,0 +1,345 @@
+Name,Age,City,Grade,Gender,Note
+Pooja,19.924095284122156,Mumbi,None,male,excellent
+Riya,20.112903859666,bengaluru,B,female,excellent
+Pooja,20.0,mumbai,None,male,needsh elp
+Pooja,19.924095284122156,Mumbi,None,male,excellent
+Ananya,19.727126337909947,hyderabad,C,male,excellent
+Yash,20.0,Begaluru,C,male,average
+Sagar,19.0,mumbai,C,male,averag
+Mohit,18.0,mumbai,C,female,excellent
+Aditi,19.0,mumbai,B,male,needs help
+Ishita,22.298423773624705,mumbai,None,male,average
+Arjun,23.0,hyderabad,C,male,good student
+Kiran,20.0,DELHI,B,male,average
+Ananya,22.0,bengaluru,A,male,avreage
+Ishita,21.0,EBNGALURU,B,male,late submitter
+Neha,19.0,bengaluru,C,female,good student
+Yash,21.6926004874606,bengaluru,A,male,good student
+Kiran,22.0,HYEDRABAD,B,female,average
+Riya,17.325052279249892,Delh,None,female,excellent
+Ishita,20.0,mumbai,C,female,late submitter
+Sagar,19.69824262812708,bengaluru,A,female,needs help
+Kiran,20.0,DELHI,B,male,average
+Aditi,21.0,pune,A,female,late submitter
+Aditi,24.0,bengaluru,C,female,excellent
+Pooja,19.0,pune,A,male,good student
+Arjun,20.0,Mumabi,B,male,average
+Ananya,19.0,DELHI,None,female,avreage
+Sagar,22.0,pune,B,female,average
+Ananya,16.0,Mmbai,None,female,excellent
+Sagar,22.0,pune,B,female,average
+Kiran,22.0,HYEDRABAD,B,female,average
+Raj,21.357727188604226,DELHI,A,male,needs help
+Ishita,16.908373720218734,bengaluru,A,male,nedes help
+Arjun,20.0,mumbai,None,male,good student
+Ishita,21.862797729511094,bengaluru,B,female,late submitter
+Ishita,19.0,Mumbi,A,female,good student
+Kiran,22.0,hyderabad,B,female,average
+Riya,20.565405617446434,pune,C,female,average
+Ishita,21.182569010295598,Mumabi,None,female,average
+Sagar,19.0,DELHI,A,female,late submitter
+Pooja,21.0,bengaluru,None,male,average
+Riya,20.565405617446434,pune,C,female,average
+Mohit,18.0,mumbai,C,female,excellent
+Yash,23.0,mumbai,C,female,good student
+Raj,22.3244781466219,mumbai,A,female,late sbumitter
+Yash,20.0,mumbai,A,female,excellent
+Ishita,19.0,mumbai,B,female,good student
+Raj,21.0,bengaluru,None,male,excellent
+Arjun,21.989681710604405,pune,A,male,good student
+Arjun,19.0,bengaluru,A,male,needs help
+Ishita,22.298423773624705,mumbai,None,male,average
+Pooja,21.70814744702782,hyderabad,A,female,late submitter
+Pooja,19.924095284122156,Mumbi,None,male,excellent
+Ishita,20.0,mumbai,C,female,late submitter
+Kiran,20.0,pune,A,female,excellent
+Raj,16.834433084458304,mumbai,A,male,needsh elp
+Ananya,18.67246897319322,bengaluru,None,female,late submitter
+Mohit,17.88305370659443,pune,B,male,good student
+Arjun,20.0,mumbai,None,male,good student
+Kiran,17.0,pune,None,male,average
+Sagar,23.03798759343323,hyderabad,None,male,goods tudent
+Arjun,19.0,Dehi,B,male,good student
+Neha,21.0,Hyderbaad,B,female,good student
+Riya,17.0,hyderabd,C,male,average
+Sagar,19.0,hyderabad,A,male,excellent
+Ishita,20.0,DELHI,C,male,needs help
+Pooja,20.0,mumbai,None,male,needsh elp
+Pooja,22.14808308891266,pune,A,female,late submitter
+Sagar,19.005376216395593,bengaluru,A,female,average
+Aditi,17.0,hyderabad,A,male,good student
+Neha,18.092710502589412,HYEDRABAD,A,male,good student
+Ananya,16.0,Mmbai,None,female,excellent
+Arjun,19.0,bengaluru,A,female,excellent
+Raj,22.0,pune,B,male,late submitter
+Aditi,26.01093554200991,Dehi,C,female,excellent
+Aditi,21.917854421683806,Mmbai,C,male,excellent
+Yash,20.0,Begaluru,C,male,average
+Sagar,17.964320718170896,hyderabad,A,female,average
+Yash,19.0,PNE,B,female,late submitter
+Riya,25.0,bengaluru,B,female,needs help
+Kiran,20.0,hyderabad,C,female,needs help
+Pooja,22.306724846971402,pune,A,male,excellent
+Sagar,19.0,mumbai,C,male,averag
+Ananya,16.0,Mmbai,None,female,excellent
+Kiran,20.0,Dlhi,B,male,needs help
+Pooja,21.0,bengaluru,None,male,average
+Yash,19.0,PNE,B,female,late submitter
+Mohit,20.0,bengaluru,A,female,late submitter
+Ishita,16.0,pune,A,female,average
+Mohit,22.856395260019724,bengaluru,None,female,excellent
+Sagar,22.0,hyderabad,B,male,late submitter
+Pooja,21.0,bengaluru,None,male,average
+Ishita,22.617512720519102,hyderabad,None,male,excellent
+Sagar,19.0,mumbai,C,male,averag
+Raj,22.0,pune,B,male,late submitter
+Arjun,23.0,hyderabad,C,male,good student
+Ananya,21.0,DELHI,None,female,excellent
+Ananya,21.62745204541852,bengaluru,B,male,late submitter
+Sagar,16.0,pune,A,male,verage
+Ananya,19.0,DELHI,None,female,avreage
+Pooja,23.87537216061937,PNE,A,male,goods tudent
+Raj,20.0,Pun,B,male,late submitter
+Pooja,20.0,pune,A,male,late submitter
+Riya,21.0,bengaluru,B,male,excellent
+Ishita,20.0,DELHI,C,male,needs help
+Sagar,20.0,bengaluru,A,female,average
+Mohit,22.856395260019724,bengaluru,None,female,excellent
+Yash,18.87237548548379,mumbai,C,female,excellent
+Sagar,22.0,hyderabad,B,male,late submitter
+Ishita,22.617512720519102,hyderabad,None,male,excellent
+Ishita,19.247887977396474,bengaluru,B,male,excellent
+Yash,18.87237548548379,mumbai,C,female,excellent
+Ananya,20.38432615908027,hyderabad,A,male,average
+Ishita,21.0,DELHI,B,female,excellent
+Sagar,23.03798759343323,hyderabad,None,male,goods tudent
+Arjun,19.0,mumbai,A,male,average
+Ananya,19.0,uPne,A,male,late submitter
+Neha,20.0,pune,None,female,late submitter
+Ananya,22.0,Mumbia,None,male,excellent
+Sagar,18.0,mumbai,B,female,excellent
+Mohit,18.0,bengaluru,A,female,good student
+Sagar,23.0,hyderabad,A,female,average
+Ishita,21.385060397501334,hyderabad,C,female,needs help
+Ishita,21.385060397501334,hyderabad,C,female,needs help
+Ananya,18.093798489658216,bengaluru,A,female,average
+Riya,17.0,hyderabd,C,male,average
+Raj,17.0,pune,A,female,excellent
+Ananya,18.67246897319322,bengaluru,None,female,late submitter
+Arjun,22.343767842254238,bengaluru,None,female,needs help
+Riya,18.22175683605132,mumbai,A,female,excellent
+Neha,20.0,pune,None,female,late submitter
+Neha,17.0,DELHI,C,female,excellent
+Ishita,20.0,mumbai,C,female,late submitter
+Arjun,23.0,hyderabad,C,male,good student
+Arjun,20.0,mumbai,None,male,good student
+Arjun,16.0,DELHI,None,female,good student
+Arjun,19.0,Dehi,B,male,good student
+Arjun,21.93154156652128,bengaluru,A,female,excelletn
+Ananya,16.0,Mmbai,None,female,excellent
+Raj,22.0,pune,B,male,late submitter
+Pooja,18.0,mumbai,C,female,good student
+Raj,21.0,DELHI,B,male,late sbumitter
+Pooja,21.0,bengaluru,None,male,average
+Ishita,16.98868494189937,Mumbi,A,male,average
+Arjun,21.0,pune,A,female,average
+Mohit,20.0,Dlhi,A,male,lae submitter
+Sagar,22.0,pune,B,female,average
+Yash,22.78823357105425,Hyderbaad,B,female,good student
+Arjun,20.320640392003543,yHderabad,A,male,good student
+Raj,18.30343521668948,pune,C,male,averaeg
+Raj,21.0,DELHI,B,male,late sbumitter
+Ananya,21.62745204541852,bengaluru,B,male,late submitter
+Ananya,23.0,bengaluru,B,female,excellent
+Arjun,16.0,DELHI,None,female,good student
+Neha,20.0,pune,B,male,average
+Ishita,16.0,mumbai,C,male,needs help
+Kiran,20.0,Dlhi,B,male,needs help
+Ishita,16.0,mumbai,C,male,needs help
+Ishita,22.298423773624705,mumbai,None,male,average
+Neha,17.0,DELHI,C,female,excellent
+Ishita,21.385060397501334,hyderabad,C,female,needs help
+Aditi,26.01093554200991,Dehi,C,female,excellent
+Arjun,20.0,Mumabi,B,male,average
+Ananya,18.67246897319322,bengaluru,None,female,late submitter
+Riya,20.112903859666,bengaluru,B,female,excellent
+Riya,18.0,Benagluru,A,male,excellent
+Pooja,20.0,bengaluru,None,male,needs help
+Kiran,20.0,hyderabad,C,female,needs help
+Ananya,22.0,Mumbia,None,male,excellent
+Kiran,21.0,bengaluru,B,male,good student
+Neha,20.0,bengaluru,None,female,good student
+Neha,17.0,DELHI,C,female,excellent
+Riya,20.0,pune,B,male,good student
+Pooja,18.0,mumbai,C,female,good student
+Arjun,23.0,hyderabad,C,male,good student
+Kiran,22.912909658561034,BENGALUU,C,female,late submitter
+Arjun,23.0,hyderabad,C,male,good student
+Riya,20.112903859666,bengaluru,B,female,excellent
+Neha,20.0,bengaluru,None,female,good student
+Aditi,20.0,DELHI,None,male,excellent
+Kiran,22.0,hyderabad,B,female,average
+Ishita,21.182569010295598,Mumabi,None,female,average
+Yash,22.0,Dehli,A,male,excelelnt
+Pooja,20.0,bengaluru,B,female,averaeg
+Pooja,20.0,bengaluru,None,male,needs help
+Sagar,23.03798759343323,hyderabad,None,male,goods tudent
+Kiran,17.901779175661844,hyderabad,B,female,avreage
+Yash,23.0,mumbai,C,female,good student
+Ishita,21.385060397501334,hyderabad,C,female,needs help
+Kiran,21.560995568101294,hyderabad,B,male,needs help
+Pooja,20.09228255437533,Dlhi,A,male,average
+Ishita,21.385060397501334,hyderabad,C,female,needs help
+Aditi,17.0,pune,A,female,excellent
+Sagar,17.89186324694466,pune,A,female,needsh elp
+Yash,23.0,mumbai,C,female,good student
+Ananya,23.0,bengaluru,B,female,excellent
+Arjun,22.343767842254238,bengaluru,None,female,needs help
+Ananya,21.0,DELHI,None,female,excellent
+Aditi,20.203291409868548,hyderabad,B,female,excellent
+Aditi,20.0,pune,None,male,late submitter
+Riya,17.325052279249892,Delh,None,female,excellent
+Yash,19.0,pune,A,male,good student
+Mohit,18.0,mumbai,C,female,excellent
+Kiran,22.067529608563845,bengaluru,A,male,needs help
+Ishita,20.0,DELHI,C,male,needs help
+Raj,20.66925439047542,pune,A,female,averaeg
+Aditi,20.0,DELHI,None,male,excellent
+Ananya,22.658520392462243,yHderabad,A,male,excellent
+Kiran,21.0,bengaluru,B,male,good student
+Ishita,20.0,bengaluru,A,female,goods tudent
+Ananya,19.0,hyderabad,A,female,excellent
+Ishita,17.0,yHderabad,A,male,good student
+Mohit,17.88305370659443,pune,B,male,good student
+Arjun,17.51503982672566,hyderabad,B,male,excellent
+Ananya,19.0,DELHI,None,female,avreage
+Aditi,19.0,mumbai,B,male,needs help
+Ananya,19.727126337909947,hyderabad,C,male,excellent
+Yash,20.0,hyderabad,A,male,laet submitter
+Ishita,20.0,pune,B,female,good studnt
+Aditi,21.917854421683806,Mmbai,C,male,excellent
+Neha,20.0,bengaluru,None,female,good student
+Riya,17.325052279249892,Delh,None,female,excellent
+Neha,19.473312070632602,bengaluru,B,female,needs help
+Pooja,20.0,hyderabad,A,female,good student
+Sagar,21.0,DELHI,B,male,good student
+Ishita,16.0,mumbai,C,male,needs help
+Sagar,23.03798759343323,hyderabad,None,male,goods tudent
+Mohit,17.88305370659443,pune,B,male,good student
+Aditi,19.0,pune,A,male,needs help
+Riya,17.0,hyderabd,C,male,average
+Sagar,22.0,pune,B,female,average
+Ishita,21.385060397501334,hyderabad,C,female,needs help
+Ishita,24.0,bengaluru,A,male,needs help
+Sagar,21.0,mumbai,A,male,good student
+Ishita,21.385060397501334,hyderabad,C,female,needs help
+Yash,23.0,mumbai,C,female,good student
+Ananya,19.727126337909947,hyderabad,C,male,excellent
+Kiran,20.0,Dlhi,B,male,needs help
+Ananya,16.0,Mmbai,None,female,excellent
+Riya,17.325052279249892,Delh,None,female,excellent
+Mohit,18.0,mumbai,C,female,excellent
+Riya,17.325052279249892,Delh,None,female,excellent
+Kiran,17.0,pune,None,male,average
+Sagar,18.0,bengaluru,B,female,needs help
+Sagar,18.0,bengaluru,B,female,needs help
+Ishita,20.0,pune,B,male,late submitter
+Sagar,24.0,DELHI,A,male,late submitter
+Ishita,22.298423773624705,mumbai,None,male,average
+Sagar,21.614614825256727,pune,A,male,excellent
+Pooja,20.0,bengaluru,B,female,averaeg
+Neha,20.0,bengaluru,None,female,good student
+Riya,16.0,mumbai,A,female,late submitter
+Kiran,24.0,hyderabad,A,male,averag
+Ishita,16.0,mumbai,C,male,needs help
+Aditi,24.0,MUBMAI,A,male,needs help
+Aditi,26.01093554200991,Dehi,C,female,excellent
+Neha,22.67542233245371,pune,None,female,good student
+Raj,18.30343521668948,pune,C,male,averaeg
+Raj,23.0,bengaluru,A,male,needs help
+Sagar,19.0,mumbai,C,male,averag
+Arjun,22.343767842254238,bengaluru,None,female,needs help
+Ishita,19.0,mumbai,B,female,good student
+Aditi,26.01093554200991,Dehi,C,female,excellent
+Raj,20.0,Pun,B,male,late submitter
+Mohit,18.348722018955446,HYEDRABAD,A,female,averag
+Arjun,20.0,Mumabi,B,male,average
+Aditi,20.203291409868548,hyderabad,B,female,excellent
+Aditi,16.0,BENGALUU,A,female,excellent
+Neha,20.933125648882513,bengaluru,A,male,averaeg
+Raj,21.0,pune,A,female,late submitter
+Ananya,23.0,bengaluru,B,female,excellent
+Neha,21.0,hyderabad,A,male,excellent
+Yash,18.87237548548379,mumbai,C,female,excellent
+Aditi,21.917854421683806,Mmbai,C,male,excellent
+Yash,19.0,bengaluru,None,male,needs help
+Yash,20.0,Begaluru,C,male,average
+Aditi,20.0,DELHI,None,male,excellent
+Mohit,22.856395260019724,bengaluru,None,female,excellent
+Riya,17.325052279249892,Delh,None,female,excellent
+Sagar,19.0,mumbai,C,male,averag
+Kiran,17.0,pune,None,male,average
+Arjun,23.0,hyderabad,C,male,good student
+Riya,20.565405617446434,pune,C,female,average
+Ishita,20.0,mumbai,C,female,late submitter
+Aditi,20.0,DELHI,None,male,excellent
+Neha,21.0,Hyderbaad,B,female,good student
+Yash,18.0,DELHI,A,male,excellent
+Ishita,21.182569010295598,Mumabi,None,female,average
+Mohit,22.856395260019724,bengaluru,None,female,excellent
+Yash,20.0,Begaluru,C,male,average
+Riya,22.0,hyderabad,B,female,excellent
+Neha,20.0,hyderabad,A,male,good student
+Arjun,20.0,bengaluru,A,female,needs help
+Kiran,21.0,DELHI,A,male,ecellent
+Ishita,20.507693348377032,mumbai,A,female,average
+Neha,20.0,bengaluru,None,female,good student
+Arjun,20.0,mumbai,A,female,good student
+Neha,19.0,bengaluru,C,female,good student
+Neha,16.0,bengaluru,B,male,average
+Riya,20.0,Deli,A,male,average
+Sagar,19.0,mumbai,C,male,averag
+Neha,22.67542233245371,pune,None,female,good student
+Mohit,20.0,Mumabi,A,male,needs help
+Sagar,22.0,hyderabad,B,male,late submitter
+Kiran,22.912909658561034,BENGALUU,C,female,late submitter
+Yash,22.78823357105425,Hyderbaad,B,female,good student
+Raj,18.30343521668948,pune,C,male,averaeg
+Sagar,18.0,mumbai,B,female,excellent
+Ishita,20.0,mumbai,C,female,late submitter
+Yash,23.0,mumbai,C,female,good student
+Yash,19.0,bengaluru,None,male,needs help
+Ananya,20.0,mumbai,A,female,average
+Ananya,25.0,bengaluru,A,male,aevrage
+Yash,19.0,bengaluru,None,male,needs help
+Ishita,22.617512720519102,hyderabad,None,male,excellent
+Neha,17.0,DELHI,C,female,excellent
+Riya,20.0,hyderabad,None,female,averaeg
+Riya,25.0,bengaluru,B,female,needs help
+Mohit,20.497437528935702,bengaluru,A,female,averaeg
+Sagar,20.0,DELHI,A,female,excellent
+Riya,20.0,hyderabad,None,female,averaeg
+Arjun,22.343767842254238,bengaluru,None,female,needs help
+Arjun,19.0,hyderabad,A,female,excellent
+Ishita,20.0,mumbai,C,female,late submitter
+Kiran,21.560995568101294,hyderabad,B,male,needs help
+Ananya,19.727126337909947,hyderabad,C,male,excellent
+Neha,22.67542233245371,pune,None,female,good student
+Neha,17.0,DELHI,C,female,excellent
+Sagar,23.03798759343323,hyderabad,None,male,goods tudent
+Aditi,24.0,bengaluru,C,female,excellent
+Riya,20.112903859666,bengaluru,B,female,excellent
+Mohit,17.88305370659443,pune,B,male,good student
+Neha,19.473312070632602,bengaluru,B,female,needs help
+Kiran,20.0,EBNGALURU,B,male,excellent
+Yash,19.0,PNE,B,female,late submitter
+Yash,18.87237548548379,mumbai,C,female,excellent
+Ananya,21.0,DELHI,None,female,excellent
+Arjun,17.51503982672566,hyderabad,B,male,excellent
+Yash,20.0,Begaluru,C,male,average
+Kiran,18.0,hyderabad,A,female,average
+Raj,21.0,bengaluru,None,male,excellent
+Pooja,20.206119583563343,bengaluru,A,male,good student
+Arjun,20.0,Mumabi,B,male,average
+Raj,20.0,Delh,C,female,late submitter
+Aditi,20.0,bengaluru,B,male,late submitter
